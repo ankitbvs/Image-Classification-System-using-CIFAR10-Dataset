@@ -1,6 +1,6 @@
 # Image-Classification-System-using-CIFAR10-Dataset
 
-![alt text](Image-Classification-System-using-CIFAR10-Dataset/Photos/cifar10.PNG)
+![alt text](/Photos/cifar10.PNG)
 
 ### Table of contents
 * [Introduction](#introduction)
