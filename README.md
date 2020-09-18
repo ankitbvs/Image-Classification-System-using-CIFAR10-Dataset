@@ -55,9 +55,9 @@ In this project, we am going to design various neural networks by implementing t
 ### Evaluation Metrics  
 Accuracy
 
-![alt text](acc.PNG)
+![alt text](/Photos/acc.PNG)
 
 ### Results and Conclusion
 After implementing 4 different neural networks i.e. Softmax, TwoLayerNN, ConvNet and my own model(MyModel) on CIFAR10, obtained the best performance on MyModel i.e. 92% accuracy
 
-![alt text](logv.PNG)
+![alt text](/Photos/logv.PNG)
